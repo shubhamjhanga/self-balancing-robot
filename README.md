@@ -9,8 +9,6 @@ Real-time feedback and correction using DC motors and motor drivers
 
 Built using Arduino C++ and embedded programming techniques
 
-🛠️ Technologies Used
-
 ## Technologies Used
 
 Arduino C++
